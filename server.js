@@ -1,5 +1,5 @@
 var express=require('express');
-var middleware=require('middleware');
+var middleware=require('./middleware.js');
 var app= express();
 var port=3000;
 
